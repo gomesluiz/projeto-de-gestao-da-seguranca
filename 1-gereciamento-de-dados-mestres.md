@@ -18,5 +18,5 @@ Ou seja, as informações que se encaixam nessas categorias precisam de um melho
 O primeiro passo para o GDM é o mapeamento dos dados dados da organização (_data profiling_) em um único documento. Isso permitirá a criação de um padrão de dados definido. Por exemplo, todo novo produto adquirido precisa estar acompanhado da sua cor, função e material. No contexto da segurança da informação, além disto, esse mapeamento permitirá a avaliação dos dados atuais da organização com relação à proteção e divulgação desses informações. 
 
 ### Templates propostos
-* [Data Profiling](Templates/Etapa-1a.docx)
+* [Data Profiling](./Templates/Etapa-1a.docx)
 
