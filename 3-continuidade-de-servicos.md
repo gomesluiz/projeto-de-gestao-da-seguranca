@@ -1,3 +1,5 @@
+# PLANO DE CONTINUIDADE DE SERVIÇOS DE NEGÓCIO
+
 ## 1º Passo — Definir o objetivo do plano.
 O primeiro passo para um PCTIC é definir o objetivo do plano. Sem um objetivo claro, não se chega a lugar algum. Comece deixando claro o escopo e os objetivos do plano proposto.
 ## 2º Passo — Identificar as principais áreas.
