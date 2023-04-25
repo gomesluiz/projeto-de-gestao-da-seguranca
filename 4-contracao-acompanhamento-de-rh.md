@@ -3,6 +3,7 @@ Um plano de segurança é conjunto de ações estratégicas e sistematizadas par
 sejam eles físicos, tecnológicos ou humanos. Trata-se de uma política direcionada à redução de perdas patrimoniais e de exposição a riscos, como:
 
 * Invasões físicas em ambientes restritos;
+* Incêncios e desastres naturais;
 * Furtos e roubos de equipamentos;
 * Invasão por meios cibernéticos;
 * Quebra de sigilo de informações;
