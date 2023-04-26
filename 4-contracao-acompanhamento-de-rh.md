@@ -9,3 +9,5 @@ Um plano de segurança é conjunto de ações estratégicas e sistematizadas par
 
 Em resumo, plano de segurança trata da segurança física e ambiental da organização referindo-se às medidas de segurança adotadas no ambiente físico da organização onde os recursos de tecnologia da informação estão localizados.
 
+## Referências
+Gross, Christian; Gross, Jan. Segurança em Tecnologia da Informação. Disponível em: [https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=15312](https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=15312). Acesso em: 26 de abril de 2023.
