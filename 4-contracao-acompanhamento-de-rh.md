@@ -6,6 +6,7 @@ Um plano de segurança é conjunto de ações estratégicas e sistematizadas par
 * Furtos e roubos de equipamentos;
 * Invasões físicas em ambientes restritos
 * Quebra de sigilo de informações & Engenharia Social;
+* Contratação de recursos humanos aplicando normas de segurança.
 
 Em resumo, plano de segurança trata da segurança física e ambiental da organização referindo-se às medidas de segurança adotadas no ambiente físico da organização onde os recursos de tecnologia da informação estão localizados.
 
