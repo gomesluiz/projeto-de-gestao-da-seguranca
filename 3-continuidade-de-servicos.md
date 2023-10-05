@@ -9,7 +9,7 @@ Após definir as áreas da empresa que usarão o PCTIC, identifique quais ativid
 ## 4º Passo — Determinar o tempo de inatividade aceitável para cada atividade crítica
 A proposta do plano de continuidade de negócios é minimizar esse impacto e reduzir ao máximo o tempo de reação da empresa. Para isso,  determine o tempo aceitável que cada atividade crítica pode ficar comprometida.
 ## 5º Passo — Criar um plano de ação e recuperação de desastres.
-Nesse passo, você deve analisar as opções de softwares de continuidade de negócio e selecionar o que melhor se adapta às definições feitas até aqui. Para ficar completo, inclua os responsáveis e os prazos de cada ação. Ter pontos de controle também é essencial para verificar se a implementação do plano está conforme o esperado. Se possível, faça uma simulação antes da ocorrência de um caso real.
+Nesse passo, você deve analisar as opções de softwares de continuidade de negócio e selecionar o que melhor se adapta às definições feitas até aqui. Para ficar completo, inclua os responsáveis e os prazos de cada ação. Ter pontos de controle também é essencial para verificar se a implementação do plano está conforme o esperado. Se possível, de forma opcional, faça uma simulação antes da ocorrência de um caso real.
 
 ### Exemplos de Planos de Continuidade de Negócios.
 * TERCON. **Plano de Continuidade de Negócio**. Online em: [Plano de Continuidade de Negócio](https://terconbr.com.br/wp-content/uploads/2018/02/TERCON-Plano-de-Continuidade-de-Nego%CC%81cio-v2.0b.pdf). Acesso em: 21 de março 2023.
