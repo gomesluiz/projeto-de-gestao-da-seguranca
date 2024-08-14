@@ -22,6 +22,9 @@ O gerenciamento de acesso de dados promove a definição das políticas de acess
 ### Template proposto
 * [Etapa 1](./Templates/Etapa-1.docx)
 
+### Exemplos (NOVO)
+* [2023_1_Exemplo_1_Etapa_1](./Exemplos/2023_1_Exemplo_1_Etapa_1.pdf)
+
 ## Referências
 
 * BRANDÃO, Graziela. **O Que é Mapeamento de Dados**. Online em: [https://blconsultoriadigital.com.br/mapeamento-de-dados/](https://blconsultoriadigital.com.br/mapeamento-de-dados/). Acesso em: 3 de janeiro de 2023.
