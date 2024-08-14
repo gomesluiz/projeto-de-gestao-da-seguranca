@@ -23,7 +23,7 @@ O gerenciamento de acesso de dados promove a definição das políticas de acess
 * [Etapa 1](./Templates/Etapa-1.docx)
 
 ### Exemplos (NOVO)
-* [2023_1_Exemplo_1_Etapa_1](./Exemplos/2023_1_Exemplo_1_Etapa_1.pdf)
+* [2023_1_Exemplo_1_Etapa_1.pdf](./Exemplos/2023_1_Exemplo_1_Etapa_1.pdf)
 
 ## Referências
 
