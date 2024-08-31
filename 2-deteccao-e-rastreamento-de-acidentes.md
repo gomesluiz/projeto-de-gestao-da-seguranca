@@ -29,3 +29,8 @@ Neste passo, o grupo deverá elaborar um plano de teste de segurança consideran
 Neste passo, o grupo deve analisar uma ferramenta para testes de segurança e elaborar um procedimento para sua utilização em uma organização. [Exemplo de Start Guide](https://www.zaproxy.org/getting-started/).
 
 Os procedimentos acima poderão ser descritos em um documento contendo screenshots explicativos ou em um documentos contendo os links para screencasts (gravação de telas) criados pelo **próprio grupo** das ferramentas selecionadas. O grupo também poderá optar por criar um documento contendo telas explicativas e links para os screencasts. A mesma ferramenta poderá se utilizada **em mais de um passo**.
+
+### Exemplos (NOVO)
+* [2024_2_Exemplo_1_Etapa_2.pdf](./Exemplos/2024_2_Exemplo_1_Etapa_2.pdf)
+
+[Voltar](README.md)

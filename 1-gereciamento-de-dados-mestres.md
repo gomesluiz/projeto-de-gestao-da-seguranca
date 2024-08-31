@@ -23,10 +23,12 @@ O gerenciamento de acesso de dados promove a definição das políticas de acess
 * [Etapa 1](./Templates/Etapa-1.docx)
 
 ### Exemplos (NOVO)
-* [2023_1_Exemplo_1_Etapa_1.pdf](./Exemplos/2023_1_Exemplo_1_Etapa_1.pdf)
+* [2024_2_Exemplo_1_Etapa_2.pdf](./Exemplos/2024_2_Exemplo_1_Etapa_2.pdf)
 
 ## Referências
 
 * BRANDÃO, Graziela. **O Que é Mapeamento de Dados**. Online em: [https://blconsultoriadigital.com.br/mapeamento-de-dados/](https://blconsultoriadigital.com.br/mapeamento-de-dados/). Acesso em: 3 de janeiro de 2023.
 * ORACLE. **O Que é Master Data Management (MDM, Gerenciamento de Dados Mestre).** Online em: [https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/). Disponível em: 3 de janeiro de 2023.
 * MIDAS SOLUTIONS. **5 dicas essenciais para fazer a integração de dados no MDM.** Online em: [https://midassolutions.com.br/blog/integracao-de-dados-no-mdm/](https://midassolutions.com.br/blog/integracao-de-dados-no-mdm/). Acesso em: 3 de janeiro de 2023.
+
+[Voltar](README.md)
