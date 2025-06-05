@@ -10,6 +10,9 @@ Um plano de segurança de recursos de tecnologia da informação é conjunto de 
 
 Em resumo, plano de segurança trata da segurança física e ambiental da organização referindo-se às medidas de segurança adotadas no ambiente físico da organização onde os recursos de tecnologia da informação estão localizados.
 
+## Exemplos:
+[Exemplo de 2024/2](./Exemplos/2024_2_Exemplo_1_Etapa_4.pdf)
+
 ## Referências
 * Gross, Christian; Gross, Jan. Segurança em Tecnologia da Informação. Disponível em: [https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=15312](https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=15312). Acesso em: 26 de abril de 2023.
 * Marcondes, José Sérgio. Segurança Física e Ambiental. Disponível em: [https://gestaodesegurancaprivada.com.br/seguranca-fisica-e-do-ambiente-definicao/](https://gestaodesegurancaprivada.com.br/seguranca-fisica-e-do-ambiente-definicao/). Acesso em: 26 de abril de 2023.
